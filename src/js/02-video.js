@@ -1,3 +1,4 @@
+'use strict';
 import VimeoPlayer from "@vimeo/player";
 import throttle from "lodash.throttle"    
 
